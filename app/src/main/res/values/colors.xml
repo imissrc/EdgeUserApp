@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logoScreenBackground">#F7F7F7</color>
+
+    <color name="colorPrimary">#0D2038</color>
+    <color name="colorPrimaryDark">#0B2749</color>
+    <color name="colorAccent">#3654AF</color>
+    <color name="background">#8B424249</color>
+    <color name="colorCursor">#CCCCCC</color>
+    <color name="divideLine">#C95B6979</color>
+    <color name="textColorBlue">#0A3752</color>
+    <color name="colorLoginButton">#071949</color>
+    <color name="textColorGray">#A9AFBE</color>
+    <color name="textColorBlack">#000000</color>
+    <color name="colorDarkRed">#A4AA0202</color>
+    <color name="color_pattle_bg">#20305E</color>
+    <color name="color_pattle_bg1">#A62D476C</color>
+    <color name="color_text_dark">#AEB0B9</color>
+    <color name="colorTableLine">#696D8A</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
